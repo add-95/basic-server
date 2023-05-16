@@ -4,3 +4,5 @@ models/
 node_modules/
 routes/
 views/
+.gitignore/
+git_command/
